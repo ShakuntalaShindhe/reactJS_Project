@@ -1,0 +1,112 @@
+/* .container{
+    display: grid;
+    align-items: center;
+    border: 2px solid red;
+    grid-template-columns: repeat(3,1fr);
+} */
+.card-grid{
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(3,1fr);
+}
+.Ice-heading{
+    text-align: center;
+    font-size: 2.5rem;
+    color:darkred;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.Ice-Cards{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-inline: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+.Ice-Cards img{
+    width: 370px;
+    height: 310px;
+    border-radius: 50%;
+    transition: all .5s;
+
+}
+.Ice-Cards .image{
+    width: 300px;
+    height:300px;
+    transition: all .5s;
+}
+.Ice-Cards .image:hover{
+    transform: scale(1.1);    
+}
+.btn{
+    padding: 10px 26px;
+    margin-bottom: 50px;
+    border: none;
+    color: rgb(3, 106, 3);
+    border-radius: 10px;
+    font-family: 600;
+    background-color: rgba(233, 202, 26, 0.785);
+    transition: all .5s;
+}
+.btn:hover{
+    background-color:rgb(5, 148, 5);
+    color: #fff;
+    transform: scale(1.1);
+}
+.title{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: green;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.price{
+    font-size: 1.2rem;
+    color: #CC2B52;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+.Pizza-heading{
+    color: darkred;
+    letter-spacing: 2px;
+    margin: 30px 0px;
+    text-align: center;
+    font-size:2.5rem;
+}
+.rice-Cards img{
+    margin: 20px 70px;
+    width: 360px;
+    border-radius: 30px;
+    height: 380px;
+    margin-inline: 40px;
+}
+.cakes-heading{
+    letter-spacing:2px;
+    font-size: 2.5rem;
+    text-align: center;
+    color: darkred;
+    margin: 30px 0;
+}
+ .search_priceSort{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+ }
+ .sortSelect select{
+    width: 180px;
+    border-radius: 10px;
+    padding: 10px;
+ }
+ .Coffee-heading{
+    letter-spacing: 2px;
+    font-size: 2.5rem;
+   text-align: center;
+    color: darkred;
+ }
+ .Rice-heading{
+    letter-spacing: 2px;
+    font-size: 2.5rem;
+    text-align: center;
+     color: darkred;
+ }

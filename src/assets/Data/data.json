@@ -1,0 +1,187 @@
+[
+{
+    "id":5,
+    "title":"Butternut Pumpkin",
+    "price":"₹400",
+    "image":"/src/assets/images/Butternut_Pumpkin-$15.00.jpg",
+    "rating":"4.6",
+    "time":"60 min"
+
+},
+{
+    "id":6,
+    "title":"Butternut Pumpkin",
+    "price":"₹400",
+    "image":"/src/assets/images/Butternut_Pumpkin-$16.00.jpg",
+    "rating":"4.7",
+    "time":"44 min"
+
+},
+{
+    "id":7,
+    "title":"Pizza",
+    "price":"₹170",
+    "image":"/src/assets/images/pizza.png",
+    "rating":"4.6",
+    "time":"20 min"
+
+
+},
+{
+    "id":8,
+    "title":"large Pizza",
+    "price":"₹270",
+    "image":"/src/assets/images/pizza2.jpg",
+    "rating":"4.6",
+    "time":"30 min"
+
+},
+{
+    "id":9,
+    "title":"Extra Chees Pizza",
+    "price":"₹290",
+    "image":"/src/assets/images/pizza1.png",
+    "rating":"4.7",
+    "time":"34 min"
+
+},
+{
+    "id":1,
+    "title":"Bacon Burger",
+    "price":"₹190",
+    "image":"/src/assets/images/Bacon_Burger-$3.50.png",
+    "rating":"4.2",
+    "time":" 20-25 min"
+},{
+    "id":2,
+    "title":"Burger Nine",
+    "price":"₹189",
+    "image":"/src/assets/images/burger_Nine-$5.15.png",
+    "rating":"4.4",
+    "time":"20-25 min"
+},
+{
+    "id":3,
+    "title":"Beef Burger",
+    "price":"₹299",
+    "image":"/src/assets/images/Beef_Burger-$2.95.png",
+    "rating":"4.3",
+    "time":"30-45 min"
+
+},
+{
+    "id":4,
+    "title":"fatBoy Burger",
+    "price":"₹320",
+    "image":"/src/assets/images/fatboy_Burger-$3.25.png",
+    "rating":"4.4",
+    "time":"30-40 min"
+
+},
+{
+    "id":10,
+    "title":"Masala Dosa",
+    "price":"₹90",
+    "image":"/src/assets/images/masala.jpg",
+    "rating":"4.6",
+    "time":"15 min"
+
+
+},
+{
+    "id":11,
+    "title":"Panner Masala",
+    "price":"₹210",
+    "image":"/src/assets/images/paneer.jpg",
+    "rating":"4.4",
+    "time":"40 min"
+
+},{
+    "id":12,
+    "title":"Pasta",
+    "price":"₹120",
+    "image":"/src/assets/images/pasta.png",
+    "rating":"4.4",
+    "time":"30-40 min"
+},{
+    "id":13,
+    "title":"Masala Dosa large",
+    "price":"₹110",
+    "image":"/src/assets/images/masaladosa2.jpg",
+    "rating":"4.6",
+    "time":"20-30 min"
+},{
+    "id":14,
+    "title":"Geek Salad",
+    "price":"₹140",
+    "image":"/src/assets/images/Geek_Salad-$39.00.jpg",
+    "rating":"4.6",
+    "time":"30-40 min"
+
+
+},{
+    "id":15,
+    "title":"Chicken Burger",
+    "price":"₹110",
+    "image":"/src/assets/images/Chicken_burger-$4.50.png",
+    "rating":"4.9",
+    "time":"20-24 min"
+
+},{
+    "id":16,
+    "title":"Grilled Roast Burger",
+    "price":"₹140",
+    "image":"/src/assets/images/Grilled_Roast_Burger.jpg",
+    "rating":"4.4",
+    "time":"35-40 min"
+
+},{
+    "id":17,
+    "title":"Tokusen Wagyu",
+    "price":"₹200",
+    "image":"/src/assets/images/Tokusen_wagyu-$39.00.jpg",
+    "rating":"4.6",
+    "time":"39-45 min"
+},{
+    "id":19,
+    "title":"Tokusen Wagyu",
+    "price":"₹300",
+    "image":"/src/assets/images/Tokusen_wagyu-$45.00.jpg",
+    "rating":"4.2",
+    "time":"28 min"
+
+},{
+    "id":20,
+    "title":"Chocolate MilkShake",
+    "price":"₹80",
+    "image":"/src/assets/images/Chocolate_milkshake-$3.00.png",
+    "rating":"4",
+    "time":"30-38 min"
+
+},{
+    "id":21,
+    "title":"Mango MilkShake",
+    "price":"₹60",
+    "image":"/src/assets/images/mango_milkshake.png",
+    "rating":"3.8",
+    "time":"20-30 min"
+
+},
+{
+    "id":22,
+    "title":"Classic Smash",
+    "price":"₹180",
+    "image":"/src/assets/images/classic_smash-$4.00.png",
+    "rating":"4.1",
+    "time":"30 min"
+
+
+},{
+    "id":23,
+    "title":"Dessert",
+    "price":"₹90",
+    "image":"/src/assets/images/dessert.png",
+    "rating":"4",
+    "time":"50 min"
+}
+]

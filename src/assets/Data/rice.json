@@ -1,0 +1,79 @@
+[{
+    "id":1,
+    "title":"Chicken Fried Rice",
+    "price":"₹200",
+    "image":"/src/assets/images/r1.avif",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":2,
+    "title":"Egg Fried Rice",
+    "price":"₹90",
+    "image":"/src/assets/images/r2.avif",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":3,
+    "title":"Mix Fried Rice",
+    "price":"₹120",
+    "image":"/src/assets/images/r3.avif",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":4,
+    "title":"Schezwan Fried Rice Chicken",
+    "price":"₹230",
+    "image":"/src/assets/images/r4.avif",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":5,
+    "title":"Veg Fried Rice",
+    "price":"₹180",
+    "image":"/src/assets/images/r5.avif" ,
+    "rating":"4",
+    "time":"50 min"  
+},{
+    "id":6,
+    "title":"Zeera Rice",
+    "price":"₹150",
+    "image":"/src/assets/images/r6.avif" ,
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":7,
+    "title":"Biriyani Rice",
+    "price":"₹80",
+    "image":"/src/assets/images/r7.avif",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":8,
+    "title":"Veg Pulao",
+    "price":"₹80",
+    "image":"/src/assets/images/r8.avif",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":9,
+    "title":"Chicken Fried Rice",
+    "price":"200",
+    "image":"/src/assets/images/r9.avif",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":10,
+    "title":"Chicken Biriyani",
+    "price":"₹300",
+    "image":"/src/assets/images/r10.avif",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":11,
+    "title":"Curd Rice",
+    "price":"₹170",
+    "image":"/src/assets/images/curd.avif",
+    "rating":"4",
+    "time":"50 min"
+}
+]

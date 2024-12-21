@@ -1,0 +1,25 @@
+/* .Burger-Cards{
+    border: 2px solid red;
+} */
+.card-grid-burger{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 20px 60px;
+}
+.Burger-Cards img{
+    width: 450px;
+    height: 440px;
+    transition: transform 0.4s;
+    /* transform-style: flat; */
+    transform-style:preserve-3d ;
+}
+.Burger-Cards img:hover{
+    transform: rotateY(20deg);
+}
+.Burger-heading{
+    letter-spacing:2px;
+    font-size: 3rem;
+    text-align: center;
+    color:darkred;
+    margin: 30px 0;
+}

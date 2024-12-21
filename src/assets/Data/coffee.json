@@ -1,0 +1,72 @@
+[{
+    "id":1,
+    "title":"Cappuccion",
+    "price":"₹600",
+    "image":"/src/assets/images/co1.jpg",
+     "rating":"4",
+    "time":"50 min"
+},{
+     "id":2,
+     "title":"Cortado",
+    "price":"₹300",
+    "image":"/src/assets/images/co2.jpg",
+     "rating":"4",
+    "time":"50 min"
+},{
+    "id":3,
+    "title":"Latte",
+    "price":"₹400",
+    "image":"/src/assets/images/co3.jpg",
+     "rating":"4",
+    "time":"50 min"
+},{
+    "id":4,
+    "title":"Caffe machhianto",
+    "price":"₹300",
+    "image":"/src/assets/images/co4.jpg",
+     "rating":"4",
+    "time":"50 min"
+},{
+    "id":5,
+    "title":"Espresso con panna",
+    "price":"₹490",
+    "image":"/src/assets/images/co5.jpg",
+     "rating":"4",
+    "time":"50 min"
+},{
+    "id":6,
+    "title":"Cuban espresso",
+    "price":"₹500",
+    "image":"/src/assets/images/co6.jpg",
+     "rating":"4",
+    "time":"50 min"
+},{
+    "id":7,
+    "title":"Long Black",
+    "price":"₹300",
+    "image":"/src/assets/images/co7.jpg",
+     "rating":"4",
+    "time":"50 min"
+},{
+    "id":8,
+    "title":"Flat White",
+    "price":"₹600",
+    "image":"/src/assets/images/co8.jpg",
+     "rating":"4",
+    "time":"50 min"
+},{
+    "id":9,
+    "title":"Frappe cofee",
+    "price":"₹450",
+    "image":"/src/assets/images/co9.jpg",
+     "rating":"4",
+    "time":"50 min"
+},{
+    "id":10,
+    "title":"Cappuccion",
+    "price":"₹600",
+    "image":"/src/assets/images/c10.jpg",
+     "rating":"4",
+    "time":"50 min"
+}
+]

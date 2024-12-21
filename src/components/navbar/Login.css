@@ -1,0 +1,83 @@
+
+/* contact Page Styling */
+.contact-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .reservation-table {
+    margin: 0 auto;
+    width: 80%;
+    border-collapse: collapse;
+  }
+  
+  .reservation-table th,
+  .reservation-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .reservation-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .reservation-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .reservation-table tr:hover {
+    background-color: #ddd;
+  }
+
+/* Login page Styling */
+.login-container {
+  max-width: 330px;
+  margin: 80px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+}
+.login-container h2{
+  text-align: center;
+  color: darkseagreen;
+  margin-bottom: 20px;
+}
+.namePhone{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-container label {
+  margin-bottom: 5px;
+  font-weight: bold;
+  /* color: rgb(14, 152, 238); */
+}
+
+.login-container input {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color:rgb(69, 134, 4);
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  margin:20px 100px;
+}
+
+.login-container button:hover {
+  background-color: #0056b3;
+}
+
+
+  

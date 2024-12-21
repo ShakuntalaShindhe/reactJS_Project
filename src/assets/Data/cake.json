@@ -1,0 +1,98 @@
+[{
+    "id":6,
+    "title":"Chocolate turffle Cake",
+    "price":"₹340",
+    "image":"/src/assets/images/c6.webp",
+    "rating":"4",
+    "time":"50 min" 
+},{
+    "id":7,
+    "title":"Fruit OverLoaded Cake",
+    "price":"₹450",
+    "image":"/src/assets/images/c7.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":8,
+    "title":"ButterScotch Cake",
+    "price":"₹300",
+    "image":"/src/assets/images/c8.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":9,
+    "title":"Chocolate Caramel Fudge",
+    "price":"₹290",
+    "image":"/src/assets/images/c7.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":10,
+    "title":"Pinapple Cake",
+    "price":"₹320",
+    "image":"/src/assets/images/c10.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":11,
+    "title":"Black Forest Cake",
+    "price":"₹450",
+    "image":"/src/assets/images/c11.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":12,
+    "title":"Fudge Brownei Cake",
+    "price":"₹480",
+    "image":"/src/assets/images/c12.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":13,
+    "title":"Vanilla Cake with Gulab Jamon",
+    "price":"₹500",
+    "image":"/src/assets/images/c13.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":14,
+    "title":"Cream Drop Chacolate Cake",
+    "price":"₹480",
+    "image":"/src/assets/images/c14.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":1,
+    "title": "yummy Rasmalai Cake",
+    "price":"₹500",
+    "image":"/src/assets/images/c1.jpg",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":2,
+    "title":"Delicious Round butterScotch",
+    "price":"₹530",
+    "image":"/src/assets/images/c2.jpg",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":3,
+    "title":"Chocolate Tempatation Cake",
+    "price":"₹470",
+    "image":"/src/assets/images/c3.jpg",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":4,
+    "title":"Almond Amaze Dry Cake",
+    "price":"₹580",
+    "image":"/src/assets/images/c4.jpg"
+},{
+    "id":5,
+    "title":"Nuts and Dates Dry Cake",
+    "price":"₹630",
+    "image":"/src/assets/images/c5.jpg",
+    "rating":"4",
+    "time":"50 min"
+}
+]

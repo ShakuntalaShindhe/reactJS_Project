@@ -1,0 +1,122 @@
+[{
+    "id":1,
+    "title":"Bacon Burger",
+    "price":"$3.50",
+    "image":"/src/assets/images/Bacon_Burger-$3.50.png"
+},{
+    "id":2,
+    "title":"Burger Nine",
+    "price":"$5.15",
+    "image":"/src/assets/images/burger_Nine-$5.15.png"
+},
+{
+    "id":3,
+    "title":"Beef Burger",
+    "price":"$2.95",
+    "image":"/src/assets/images/Beef_Burger-$2.95.png"
+},
+{
+    "id":4,
+    "title":"fatBoy Burger",
+    "price":"$3.25",
+    "image":"/src/assets/images/fatboy_Burger-$3.25.png"
+},
+{
+    "id":5,
+    "title":"Butternut Pumpkin",
+    "price":"$15.00",
+    "image":"/src/assets/images/Butternut_Pumpkin-$15.00.jpg"
+},
+{
+    "id":6,
+    "title":"Butternut Pumpkin",
+    "price":"$16.00",
+    "image":"/src/assets/images/Butternut_Pumpkin-$16.00.jpg"
+},
+{
+    "id":7,
+    "title":"Pizza",
+    "price":"$7.00",
+    "image":"/src/assets/images/pizza.png"
+},
+{
+    "id":8,
+    "title":"large Pizza",
+    "price":"$9.00",
+    "image":"/src/assets/images/pizza1.png"
+},
+{
+    "id":9,
+    "title":"Extra Chees Pizza",
+    "price":"$9.00",
+    "image":"/src/assets/images/pizza2.png"
+},
+{
+    "id":10,
+    "title":"Masala Dosa",
+    "price":"$5.00",
+    "image":"/src/assets/images/masala.jpg"
+},
+{
+    "id":11,
+    "title":"Panner Masala",
+    "price":"$10.00",
+    "image":"/src/assets/images/paneer.jpg"
+},{
+    "id":12,
+    "title":"Pasta",
+    "price":"$4.00",
+    "image":"/src/assets/images/pasta.png"
+},{
+    "id":13,
+    "title":"Masala Dosa large",
+    "price":"$7.00",
+    "image":"/src/assets/images/masala(1).jpg"
+},{
+    "id":14,
+    "title":"Geek Salad",
+    "price":"$39.00",
+    "image":"/src/assets/images/Geek_Salad-$39.00.jpg"
+},{
+    "id":15,
+    "title":"Chicken Burger",
+    "price":"$4.50",
+    "image":"/src/assets/images/Chicken_burger-$4.50.png"
+},{
+    "id":16,
+    "title":"Grilled Roast Burger",
+    "price":"$5.15",
+    "image":"/src/assets/images/Grilled_Roast_Burger.jpg"
+},{
+    "id":17,
+    "title":"Tokusen Wagyu",
+    "price":"$39.00",
+    "image":"/src/assets/images/Tokusen_wagyu-$39.00.jpg"
+},{
+    "id":19,
+    "title":"Tokusen Wagyu",
+    "price":"$45.00",
+    "image":"/src/assets/images/Tokusen_wagyu-$45.00.jpg"
+},{
+    "id":20,
+    "title":"Chocolate MilkShake",
+    "price":"$3.00",
+    "image":"/src/assets/images/Chocolate_milkshake-$3.00.png"
+},{
+    "id":20,
+    "title":"Mango MilkShake",
+    "price":"$3.00",
+    "image":"/src/assets/images/mango_milkshake.png"
+},
+{
+    "id":22,
+    "title":"Classic Smash",
+    "price":"$4.00",
+    "image":"/src/assets/images/classic_smash-$4.00.png"
+},{
+    "id":23,
+    "title":"Dessert",
+    "price":"$4.00",
+    "image":"/src/assets/images/dessert.png"  
+}
+]

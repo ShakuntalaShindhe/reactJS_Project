@@ -1,0 +1,150 @@
+[{
+    "id":1,
+    "title":"Fresh Veggie",
+    "price":"₹190",
+    "image":"/src/assets/images/FreshVeggie.webp",
+    "rating":"4",
+    "time":"50 min"
+},
+{
+    "id":2,
+    "title":"Cheese And Corn",
+    "price":"₹170",
+    "image":"/src/assets/images/cheeseAndCorn.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":3,
+    "title":"Fresh Veggie",
+    "price":"₹210",
+    "image":"/src/assets/images/FreshVeggie.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":4,
+    "title":"Corn n Cheese Paratha pizza",
+    "price":"₹380",
+    "image":"/src/assets/images/cornandcheeseparathapizza.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":5,
+    "title":"Peppy Panner",
+    "price":"₹300",
+    "image":"/src/assets/images/peppypanner.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":6,
+    "title":"Veg Extra vaganza",
+    "price":"₹310",
+    "image":"/src/assets/images/vegExtravaganza.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":7,
+    "title":"Fram House",
+    "price":"₹400",
+    "image":"/src/assets/images/Farmhouse.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":8,
+    "title":"Achari Do Pyaz",
+    "price":"₹380",
+    "image":"/src/assets/images/p1.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":9,
+    "title":"Veggie Paradise",
+    "price":"₹300",
+    "image":"/src/assets/images/p2.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":10,
+    "title":"Veg Loaded",
+    "price":"₹320",
+    "image":"/src/assets/images/p3.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":11,
+    "title":"Indi tandoori Panner",
+    "price":"₹410",
+    "image":"/src/assets/images/p4.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":12,
+    "title":"Cheese n Valcano veg Paradise",
+    "price":"₹300",
+    "image":"/src/assets/images/p5.jpg",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":13,
+    "title":"Cheese Valcano Peppy Panner",
+    "price":"₹400",
+    "image":"/src/assets/images/p6.jpg",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":14,
+    "title":"The 5 Chicken Feast pizza",
+    "price":"₹500",
+    "image":"/src/assets/images/p7.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":15,
+    "title":"Chicken Sausage",
+    "price":"₹370",
+    "image":"/src/assets/images/p8.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":16,
+    "title":"Cheese Valcano Chicken Delight",
+    "price":"₹450",
+    "image":"/src/assets/images/p9.jpg",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":17,
+    "title":"Spiced Double Chicken",
+    "price":"₹390",
+    "image":"/src/assets/images/p10.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":18,
+    "title":"Indi Chicken Tikka",
+    "price":"₹330",
+    "image":"/src/assets/images/p11.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":19,
+    "title":"Chicken Golden Delight",
+    "price":"₹290",
+    "image":"/src/assets/images/p12.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":20,
+    "title":"Pepper Barbecue Chicken",
+    "price":"₹390",
+    "image":"/src/assets/images/p13.webp",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":21,
+    "title":"Chicken Kheema Paratha pizza",
+    "price":"₹280",
+    "image":"/src/assets/images/p14.webp",
+    "rating":"4",
+    "time":"50 min"
+}
+]

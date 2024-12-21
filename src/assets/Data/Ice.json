@@ -1,0 +1,109 @@
+[{
+    "id":1,
+    "title":"IceCream",
+    "image":"/src/assets/images/Gelato_$1.75.jpg",
+    "price":"₹80",
+    "rating":"4",
+    "time":"50 min"
+},
+{
+   "id":2,
+    "title":"IceCream",
+    "image":"/src/assets/images/Gelato_$2.45.jpg",
+    "price":"₹70",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":3,
+    "title":"Vanilla IceCream",
+    "image":"/src/assets/images/Vanilla_ice_cream.png",
+    "price":"₹80",
+    "rating":"4",
+    "time":"50 min"
+},
+{
+    "id":4,
+    "title":"IceCream shake",
+    "image":"/src/assets/images/latte_Macchiato-$4.90.png",
+    "price":"₹120",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":5,
+    "title":"Waffle Cone",
+    "image":"/src/assets/images/waffle_Cone.jpg",
+    "price":"₹50",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":6,
+    "title":"IceCream",
+    "image":"/src/assets/images/ice2.jpg",
+    "price":"₹60",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":7,
+    "title":"IceCream",
+    "image":"/src/assets/images/icecream2.jpg",
+    "price":"₹90",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":8,
+    "title":"Kesar Pista Kulfi",
+    "image":"/src/assets/images/keser_pista_kulfi.webp",
+    "price":"₹30",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":9,
+    "title":"Kesar Pista",
+    "image":"/src/assets/images/keser_pista.webp",
+    "price":"₹400",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":10,
+    "title":"All Flavours",
+    "image":"/src/assets/images/mixCream.jpg",
+    "price":"₹230",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":11,
+    "title":"Prime Strawberry",
+    "image":"/src/assets/images/prime_Strawberry.webp",
+    "price":"₹450",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":12,
+    "title":"Stick Ice",
+    "image":"/src/assets/images/Stick_ice.webp",
+    "price":"₹40",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":13,
+    "title":"Waffle Ice",
+    "image":"/src/assets/images/waffle_Cone.jpg",
+    "price":"₹80",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":14,
+    "title":"Cup Ice",
+    "image":"/src/assets/images/cup.webp",
+    "price":"₹100",
+    "rating":"4",
+    "time":"50 min"
+},{
+    "id":15,
+    "title":"Sharon Ice",
+    "image":"/src/assets/images/sharon's.jpg",
+    "price":"₹110",
+    "rating":"4",
+    "time":"50 min"
+}
+]

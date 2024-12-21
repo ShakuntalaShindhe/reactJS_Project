@@ -1,0 +1,135 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 7px 10px;
+    background-color: rgb(3, 72, 3);
+    /* border-radius: 10px; */
+    /* background-image: url('/src/assets/images/black.webp'); */
+  }
+  .logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .logo h2{
+    font-size: 1.24rem;
+    text-decoration: none;
+    color: #fff;
+
+    font-weight: 700;
+  }
+  .logo img {
+    height: 80px;
+    object-fit: cover;
+    margin-left: 40px;
+  }
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 100px;
+  }
+  .nav-links .links {
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 700;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+  }
+  .nav-links .links i {
+    margin-right: 8px;
+  }
+  .links:hover {
+    color:gray;
+     /* text-decoration: underline; */
+  }
+  #check{
+    display: none;
+  }
+  .checkbtn {
+    display: none;
+  }
+  
+  @media (max-width: 768px) {
+    .navBar {
+      width: 1490px;
+      background-color: rgb(60, 99, 2);
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .nav-links {
+      display: none;
+      flex-direction: column;
+      margin: 10px;
+      width: 100%;
+    }
+    .nav-links .links {
+      width: 100%;
+     margin-inline: 8px;
+      color: #fff;
+      font-size: 2rem;
+    }
+    .shoppingCart{
+      border: 2px soli9d black;
+    }
+    .nav-links .links:first-child {
+      border-top: none;
+    }
+    .navBar input[type="checkbox"]:checked ~ .nav-links {
+      display: flex;
+    }
+  
+    .checkbtn {
+      display: block;
+      cursor: pointer;
+      font-size: 24px;
+      color: white;
+    }
+    #check{
+      display: block;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .navBar {
+      padding: 10px;
+      width: max-content;
+    }
+    .nav-links{
+      gap: 20px;
+    }
+  
+    .logo img {
+      max-height: 40px;
+    }
+  
+    .nav-links .links {
+      padding: 8px 0;
+    }
+  }
+  @media (max-width: 426px) {
+    .navBar {
+      width: 1430px;
+      background-color: rgb(60, 99, 2);
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .logo{
+      width: 200px;
+      height: 20px;
+    }
+    .nav-links {
+      display: none;
+      flex-direction: column;
+      margin: 10px;
+      width: 100%;
+    }
+    .nav-links .links {
+      width: 100%;
+     margin-inline: 8px;
+      color: #fff;
+      font-size: 2rem;
+    }
+  }
